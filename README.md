@@ -3,18 +3,18 @@
 ✉️ [sebastian.soza.m@mail.pucv.cl]
 
 ## Sobre mí
-Ingeniero Civil Informático en formación, apasionado por la creación de soluciones tecnológicas innovadoras y orientadas al impacto positivo en la sociedad. Comprometido con el aprendizaje continuo y el desarrollo de habilidades en el campo del desarrollo de software.
+Ingeniero Civil Informático, apasionado por la creación de soluciones tecnológicas innovadoras y orientadas al impacto positivo en la sociedad. Comprometido con el aprendizaje continuo y el desarrollo de habilidades en el campo del desarrollo de software.
 
 ## Educación
 
 **Ingeniería Civil en Informática**  
 Pontificia Universidad Católica de Valparaíso, Valparaíso, Chile  
-2021 ‑ Presente  
+2021 ‑ 2025  
 - Plan Común: Base sólida en ingeniería y la resolución de problemas de manera eficaz y eficiente.
 
 **Magíster en Ingeniería Informática**  
 Pontificia Universidad Católica de Valparaíso, Valparaíso, Chile  
-2024 ‑ Presente  
+2024 ‑ 2025  
 - Formación avanzada en procesamiento y análisis de grandes volúmenes de datos.
 - Liderazgo en proyectos de desarrollo de software y seguridad de la información.
 - Generación de soluciones innovadoras a problemas complejos de la industria.
