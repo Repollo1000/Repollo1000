@@ -2,12 +2,6 @@
 
 Ingeniero Civil Informático y Magíster en Ingeniería Informática (PUCV), apasionado por la creación de soluciones tecnológicas innovadoras orientadas a generar un impacto positivo en la sociedad.
 
-- 🔭 Actualmente enfocado en infraestructura, DevOps y desarrollo de software
-- 🌱 Aprendiendo continuamente sobre Kubernetes, contenedorización y arquitecturas escalables
-- 💼 Practicante de Ingeniería de Software / Infraestructura TI en el **Observatorio ALMA**
-- 📫 Cómo contactarme: sebaa.soza@gmail.com
-- 🌍 Las Condes, Chile
-
 ---
 
 ## 💼 Experiencia
