@@ -9,7 +9,7 @@ Ingeniero Civil Informático, apasionado por la creación de soluciones tecnoló
 
 **Ingeniería Civil en Informática**  
 Pontificia Universidad Católica de Valparaíso, Valparaíso, Chile  
-2021 ‑ 2025  
+2021 ‑ 2026
 - Plan Común: Base sólida en ingeniería y la resolución de problemas de manera eficaz y eficiente.
 
 **Magíster en Ingeniería Informática**  
